@@ -17,9 +17,10 @@ Bridging offensive web security, automation tooling, and defensive architecture.
 | Domain | Technologies / Tooling |
 | :--- | :--- |
 | **Offensive & Forensics** | Web Penetration Testing, OWASP Top 10, Android Forensics, SQLite Analysis, Burp Suite, Network Analysis |
-| **Frameworks & Defense**  | Zero-Trust Architecture (NIST SP 800-207), NIST CSF, ISO/IEC 27005, IAM / RBAC |
-| **Languages & Scripting** | Python, TypeScript / JavaScript, Node.js, C/C++, Bash |
-| **Cloud & Architecture**  | Google Cloud Platform (GCP), Cloud Run, Firebase, Docker, NGINX |
+| **Languages & Scripting** | Python, TypeScript, JavaScript, Java, Kotlin, SQL, C/C++, Bash |
+| **Web & Frameworks**      | React, Node.js, Express, HTML5, CSS3, REST APIs |
+| **Defensive & Governance**| Zero-Trust Architecture (NIST SP 800-207), NIST CSF, ISO/IEC 27005, IAM / RBAC |
+| **Cloud & Infrastructure**| Google Cloud Platform (GCP), Cloud Run, Firebase, Docker, NGINX |
 
 ---
 
